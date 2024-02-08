@@ -1,0 +1,23 @@
+.main {
+    display: grid;
+    justify-content: center;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    margin: 5px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 20px; 
+}
+
+button {
+    height: 33px;
+    width: 100px;
+    margin-left: 5px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 16px;
+}
